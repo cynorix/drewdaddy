@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuClwG2GmAJyQoCswAJsAIZ5Qy61gp6OEkTkHAVha9gAU0zU0BSMCK0mLQhGEzc8dCADGIFCEogRZfBTU5guIfSmKcFeLjBDgC+xCA.webp" group-title="StreamedSU - Football",PSV vs. Union SG (English - HD)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",PSV vs. Union SG (English - HD)
 https://gg.poocloud.in/ucl_psv/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATEOD4gBq0iG5qQiFCAggYG3PvMEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Football",Athletic Bilbao vs Arsenal (English - HD)
 https://gg.poocloud.in/ucl_athletic-club/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuClwG2GmAJyQoCswAJsAIZ5Qy61gp6OEkTkHAVha9gAU0zU0BSMCK0mLQhGEzc8dCADGIFCBgguZfBTU5guIfSmKcFeLjBDgC+xCA.webp" group-title="StreamedSU - Football",Juventus vs. B. Dortmund (English - HD)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Juventus vs. B. Dortmund (English - HD)
 https://gg.poocloud.in/ucl_juventus/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBw4KMHzApcIbiAAmh3Yn1GjIXAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Football",Benfica vs Qarabağ (English - HD)
 https://gg.poocloud.in/ucl_benfica/index.m3u8
@@ -11,377 +11,93 @@ https://gg.poocloud.in/ucl_benfica/index.m3u8
 https://gg.poocloud.in/ucl_real-madrid/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3oATMCmCriYENxCqQMEBCMgUJvWZQEKTPprZgy8IvNGamtMM7GiIQA.webp" group-title="StreamedSU - Football",Tottenham Hotspur vs Villarreal (English - HD)
 https://gg.poocloud.in/ucl_tottenham/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHEPJCJCOfjGB4mtKmBYIdXIbVvkwj4CqEQgA.webp" group-title="StreamedSU - Football",Chorrillo W vs Orlando Pride W (Español - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_720p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=4972&_HLS_part=3
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpOAAGXGxB8QEENy16QMHSd0pceghSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="StreamedSU - Football",Seattle Reign vs Racing Louisville (English - SD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_720p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=4976&_HLS_part=0
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTBCWMH0gg+IbiAAmIGLj3GQiE0cYUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - Football",Nashville SC vs Philadelphia Union (English - SD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=4979&_HLS_part=1
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQEIyHn8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp" group-title="StreamedSU - Football",Lanus vs Fluminense (English - SD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=4982&_HLS_part=3
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4gUahCDIQQqgCa6QR9SRA6cMXAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Football",Chapecoense vs Athletico Paranaense (English - SD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=4985&_HLS_part=3
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHEBBBnjHfjGB4mtKmBYIdXIbVvkwj4CqEQgA.webp" group-title="StreamedSU - Football",CONCACAF W Champions Cup: Vancouver Whitecaps W vs NJ/NY Gotham FC W (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=4989&_HLS_part=1
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIeThAGCMYHia0qYFgh1chta+TD3gKoRCA.webp" group-title="StreamedSU - Football",Vancouver Whitecaps vs Forge (English - SD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=4992&_HLS_part=2
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Vancouver Rise W vs Gotham W (English - SD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=4996&_HLS_part=0
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQRxPP4xgeJrSpgWCHVyG1L5MLeAqhEIA.webp" group-title="StreamedSU - Football",AFC Champions League: SHANGHAI SIPG vs Vissel Kobe (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=4999&_HLS_part=0
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm7EPWBgSGkNxAqQKEDr4hEEIyaMEKTPii7by9eaMdNaYbWNEQgA.webp" group-title="StreamedSU - Football",Racing Club vs River Plate (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_720p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5002&_HLS_part=1
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDgyfEDOaaQAE1wgUBo0f2JlhGMCZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="StreamedSU - Football",Birmingham Legion vs Tampa Bay Rowdies (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_720p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5005&_HLS_part=2
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLIyAMEYwPE1pUwLBDq5DaV8mDvAVQiEA.webp" group-title="StreamedSU - Football",UEFA Champions League: Olympiakos Piraeus vs Pafos (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5008&_HLS_part=3
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLEPJz8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp" group-title="StreamedSU - Football",UEFA Champions League: Slavia Praha vs Bodo/Glimt (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5011&_HLS_part=3
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMCjACQIRDm4g+IAzpw6jBmCAgEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Football",Slavia Prague vs Bodø/Glimt (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5015&_HLS_part=2
+https://gg.poocloud.in/ucl_slavia-praha/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphDNgABh7luIHX1y6DKQyRAwQIAhSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="StreamedSU - Football",Olympiacos vs Pafos (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5019&_HLS_part=1
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQ83lIIxgeJrSpgWCHVyG1L5MLeAqhEIA.webp" group-title="StreamedSU - Football",Süper Lig: Fenerbahce vs Alanyaspor (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5023&_HLS_part=0
+https://gg.poocloud.in/ucl_olympiacos/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQEHPxjA8TWlTAsEOrkNoXyYG8BVCIQA.webp" group-title="StreamedSU - Football",Liverpool vs. Atleti (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5026&_HLS_part=2
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAQQfVdmaUQ3EABMQRwylwgY61aoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - Football",Swansea City vs Nottingham Forest (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5030&_HLS_part=0
+https://gg.poocloud.in/ucl_liverpool/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQvVgIAModSD56AJiBQhjaiHsYUmfFFzBl4ReaPtNaYR2NEQgA.webp" group-title="StreamedSU - Football",Bayern Munich vs Chelsea (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5033&_HLS_part=1
+https://gg.poocloud.in/ucl_bayern-munchen/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixg+YbtVXcQOiCD4hEJEDBD6QpywQpM+KLmDLwi80Q6a0wTsaIhA.webp" group-title="StreamedSU - Football",Paris SG vs Atalanta (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5037&_HLS_part=0
+https://gg.poocloud.in/ucl_paris/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiT8QKIinYhuIPiBIGQEdUZwh1BCkz5a2YMvCLzRWprTAOxoiEA.webp" group-title="StreamedSU - Football",Ajax vs Inter Milan (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5040&_HLS_part=2
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQiQjhAd+MYHia0qYFgh1chta+TD3gKoRCA.webp" group-title="StreamedSU - Football",CONMEBOL Sudamericana: Bolivar vs Atletico-MG (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5044&_HLS_part=1
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhybh6YYBsTcQfEIhAgSRkChAQQAE3MEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Football",Richmond Kickers vs Portland Hearts of Pine (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5047&_HLS_part=1
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksJAowAE3YIQfENx0hEJPSAggYIdSGPLCMYEz4ouYMvCLzRzprTCuxohBAA.webp" group-title="StreamedSU - Football",New York City FC vs Columbus Crew (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5050&_HLS_part=2
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeOEBxBmDBGMDxNaVMCwQ6uQ2jfJgHwFUIhA.webp" group-title="StreamedSU - Football",USL League One: Union Omaha vs Spokane Velocity (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5054&_HLS_part=0
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIeUY78YwPE1pUwLBDq5DaV8mDvAVQiEA.webp" group-title="StreamedSU - Football",US Open Cup: Minnesota United FC vs Austin (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5057&_HLS_part=1
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeRliAMEYwPE1pUwLBDq5DaV8mDvAVQiEA.webp" group-title="StreamedSU - Football",CONMEBOL Sudamericana: Independiente del Valle vs Once Caldas (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5060&_HLS_part=1
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeICCFOEQKfjGB4mtKmBYIdXIbVvkwj4CqEQgA.webp" group-title="StreamedSU - Football",CONCACAF W Champions Cup: Monterrey W vs Alianza W (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5064&_HLS_part=0
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHIyEIgQ-GMDxNaVMCwQ6uQ2jfJgHwFUIhA.webp" group-title="StreamedSU - Football",Liga MX: Guadalajara Chivas vs Tigres UANL (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5067&_HLS_part=1
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIeTmP8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp" group-title="StreamedSU - Football",Major League Soccer: Real Salt Lake vs Los Angeles FC (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5070&_HLS_part=1
+https://gg.poocloud.in/ucl_ajax/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQEHDn4xgeJrSpgWCHVyG1L5MLeAqhEIA.webp" group-title="StreamedSU - Football",Copenhagen vs. Leverkusen (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5073&_HLS_part=3
+https://gg.poocloud.in/ucl_copenhagen/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLEPJAp+MYHia0qYFgh1chta+TD3gKoRCA.webp" group-title="StreamedSU - Football",Club Brugge vs. Monaco (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5077&_HLS_part=2
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeOECyMGCMYHia0qYFgh1chta+TD3gKoRCA.webp" group-title="StreamedSU - Football",Pro League: NEOM vs Al Akhdoud (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_720p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5081&_HLS_part=0
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLHPxjA8TWlTAsEOrkNoXyYG8BVCIQA.webp" group-title="StreamedSU - Football",UEFA Champions League: Manchester City vs Napoli (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5084&_HLS_part=1
+https://gg.poocloud.in/ucl_club-brugge/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQiCPxjA8TWlTAsEOrkNoXyYG8BVCIQA.webp" group-title="StreamedSU - Football",Newcastle vs. Barcelona (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5087&_HLS_part=3
+https://gg.poocloud.in/ucl_newcastle/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHIyBD8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp" group-title="StreamedSU - Football",Sporting CP vs. Kairat Almaty (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5091&_HLS_part=1
+https://gg.poocloud.in/ucl_sporting-cp/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIeSBT8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp" group-title="StreamedSU - Football",Frankfurt vs. Galatasaray (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5095&_HLS_part=1
+https://gg.poocloud.in/ucl_frankfurt/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Man City vs. Napoli (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5099&_HLS_part=0
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeRliBD8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp" group-title="StreamedSU - Football",CONMEBOL Libertadores: LDU de Quito vs Sao Paulo (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5102&_HLS_part=3
+https://gg.poocloud.in/ucl_man-city/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",OL vs. Angers SCO (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5106&_HLS_part=2
+https://gg.poocloud.in/ligue1_ol/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Liverpool vs. Everton (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5110&_HLS_part=2
+https://gg.poocloud.in/epl_liverpool/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Wolverhampton Wanderers vs. Leeds United (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5114&_HLS_part=2
+https://gg.poocloud.in/epl_wolves/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",West Ham United vs. Crystal Palace (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5118&_HLS_part=1
+https://gg.poocloud.in/epl_west-ham/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Burnley vs. Nottingham Forest (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5122&_HLS_part=1
+https://gg.poocloud.in/epl_burnley/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Brighton and Hove Albion vs. Tottenham Hotspur (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5126&_HLS_part=2
+https://gg.poocloud.in/epl_brighton/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",FC Nantes vs. Rennes (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_720p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5131&_HLS_part=0
+https://gg.poocloud.in/ligue1_fc-nantes/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Manchester United vs. Chelsea (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5135&_HLS_part=0
+https://gg.poocloud.in/epl_man-utd/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Brest vs. OGC Nice (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5138&_HLS_part=2
+https://gg.poocloud.in/ligue1_brest/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Fulham vs. Brentford (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5142&_HLS_part=1
+https://gg.poocloud.in/epl_fulham/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",RC Lens vs. LOSC (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5146&_HLS_part=2
+https://gg.poocloud.in/ligue1_rc-lens/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Sunderland vs. Aston Villa (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5151&_HLS_part=0
+https://gg.poocloud.in/epl_sunderland/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Bournemouth vs. Newcastle United (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5154&_HLS_part=3
+https://gg.poocloud.in/epl_bournemouth/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="StreamedSU - Football",Arsenal vs. Manchester City (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5159&_HLS_part=0
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDcwZeGDUoQ3EBFy6QfQwZw6JhGMCZ8UXdeXrzR9prTDqxoiEA.webp" group-title="StreamedSU - American Football",Las Vegas Raiders vs Los Angeles Chargers ( - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_720p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5163&_HLS_part=3
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuAQxQVmAKYKzD7zASl7DlrDCYrqSHb3BjB0DGXCm+ACYd0IAiBgTm5WmACcrBXSzyKmEHwJ4S+binZgi8FgoINSNDoYqsIQA.webp" group-title="StreamedSU - American Football",Tampa Bay Buccaneers vs Houston Texans ( - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_720p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5167&_HLS_part=0
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="StreamedSU - American Football",SNF: Sunday Night Football (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5170&_HLS_part=1
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="StreamedSU - American Football",TNF: Thursday Night Football (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5173&_HLS_part=3
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="StreamedSU - American Football",MNF: Monday Night Football (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5176&_HLS_part=3
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="StreamedSU - American Football",NFL RedZone (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5180&_HLS_part=0
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="StreamedSU - American Football",NFL Network (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5183&_HLS_part=2
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="StreamedSU - American Football",ESPN (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5187&_HLS_part=1
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="StreamedSU - American Football",South Florida FB Press Conference (English - SD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_720p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5191&_HLS_part=0
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="StreamedSU - American Football",FAU Football: Zach Kittley Weekly Presser (English - SD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5195&_HLS_part=0
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="StreamedSU - American Football",The Rich Eisen Show (English - SD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5198&_HLS_part=1
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="StreamedSU - American Football",North Texas Football Press Conference (English - SD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5202&_HLS_part=1
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="StreamedSU - American Football",The Pat McAfee Show (English - SD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5205&_HLS_part=2
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="StreamedSU - American Football",Colorado Weekly Football Presser (English - SD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5208&_HLS_part=3
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="StreamedSU - American Football",Willie Simmons Coach's Show (English - SD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5212&_HLS_part=0
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" group-title="StreamedSU - American Football",Sitake Show (English - SD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5215&_HLS_part=1
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCGYccIIREv0Q2WhAYgbrzr2A3yjO9hhnnOxBgABNQwKtpAhhgPD06MBYFJ0khWjjyMETPVk8gA.webp" group-title="StreamedSU - American Football",NFL: Miami Dolphins vs Buffalo Bills (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5218&_HLS_part=2
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3ShBDZsAExCEQLEBzvng1kOd5P7t2vWdCIDLzAZr621uRm9tgQ-DDAeHp0YCwKAZJCtAnkYMnBrMFAA.webp" group-title="StreamedSU - American Football",NPC: Taranaki vs Hawke's Bay (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5221&_HLS_part=3
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCFoRewi0IAmnEDZAhgjoSxDNXId4QcMzIByBON5SMLyBYq78MMB4enRgLAoQnKxYcWJgScCpQhBAA.webp" group-title="StreamedSU - American Football",AFL Premiership Football: TBA vs TBA (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5225&_HLS_part=0
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAkQtMGAAmILcB3dVIPrpAwQhw2sN8CFJra5gy8IvNEpgTDc7GiIQA.webp" group-title="StreamedSU - Baseball",Orix Buffaloes vs Chiba Lotte Marines (日本語 - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5228&_HLS_part=1
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphi5KwJCAAmIRN20HEIYyBQg+J+AQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Baseball",Los Angeles Dodgers vs Philadelphia Phillies ( - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5231&_HLS_part=2
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCkQZAWEohuIPjpCIQIACYHjZ+AQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Baseball",Arizona Diamondbacks vs San Francisco Giants ( - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5235&_HLS_part=0
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksPZgBKfmBAhuIErh3aQKEIn3b4BCkz4a2YMvCLzRGprTAOxoiEA.webp" group-title="StreamedSU - Baseball",Houston Astros vs Texas Rangers ( - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5238&_HLS_part=2
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuAQxQVmAKYKzD7zASl7DlrDCYrqSHb3BjB0DGXCm9TgE50IAiBgTm5WmCGt5dLHIrSWYPCXzcU7MEXgt5BBqRod9FVhCA.webp" group-title="StreamedSU - Baseball",Cincinnati Reds vs St. Louis Cardinals ( - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5241&_HLS_part=2
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuAQxQVmAKYKzD7zASl7DlrDCYrqSHb3BjB0DGXCm9TgE50IAiBgTm5WmCGt5dLHIqZy4bnhL5N7MEXgt5BBqRod9FVhCA.webp" group-title="StreamedSU - Baseball",Baltimore Orioles vs Chicago White Sox ( - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5245&_HLS_part=1
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuAQxQVmAKYKzD7zASl7DlrDCYrqSHb3BjB0DGXCm9TgE50IAiBgTm5WmCGt5dLHIoCGVXCXzcU7MEXgt5BdWQ76KrCEA.webp" group-title="StreamedSU - Baseball",New York Yankees vs Minnesota Twins ( - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5248&_HLS_part=3
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuAQxQVmAKYKzD7zASl7DlrDCYrqSHb3BjB0DGXCm9TgE50IAiBgTm5WmCGt5dLHIrNKI3CXzcU7MEXgt5BBqRod9FVhCA.webp" group-title="StreamedSU - Baseball",Toronto Blue Jays vs Tampa Bay Rays ( - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5252&_HLS_part=0
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuAQxQVmAKYKzD7zASl7DlrDCYrqSHb3BjB0DGXCm9TgE50IAiBgTm5WmCGt5dLHIrNuCUHhL5uKdmCLwW8gg1I0OBiqwhA.webp" group-title="StreamedSU - Baseball",Atlanta Braves vs Washington Nationals ( - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5255&_HLS_part=1
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuAQxQVmAKYKzD7zASl7DlrDCYrqSHb3BjB0DGXCm9TgE50IAiBgTm5WmCGt5dLHIrMYDSHhL5uKdmCLwW8gg1I0OBiqwhA.webp" group-title="StreamedSU - Baseball",Chicago Cubs vs Pittsburgh Pirates ( - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5258&_HLS_part=2
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="StreamedSU - Baseball",Marquee Sports Network ( - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_720p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5262&_HLS_part=1
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="StreamedSU - Baseball",MLB Network (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_720p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5265&_HLS_part=2
+https://gg.poocloud.in/epl_arsenal/index.m3u8
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj6ww3amQghuIbTkQATECj0g+IYxAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - Baseball",Washington Nationals vs Atlanta Braves (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5269&_HLS_part=0
+https://gg.poocloud.in/nationals/index.m3u8
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMYPiAAmYMt2whuWgyA0lcJ44hAEKTPii47y9eaIdNaYHWNEQgA.webp" group-title="StreamedSU - Baseball",Pittsburgh Pirates vs Chicago Cubs (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_720p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5273&_HLS_part=3
+https://gg.poocloud.in/pirates/index.m3u8
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoxanABNKIbiBL6QEEDBCIcevmYIUmfNWzBl4ReaLVNaYJ2NEQgA.webp" group-title="StreamedSU - Baseball",Detroit Tigers vs Cleveland Guardians (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_480p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5280&_HLS_part=1
+https://gg.poocloud.in/tigers/index.m3u8
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4qsom4gIuECRDacMPduWEYwJnxRcwmovNG2mtMPbGiIQA.webp" group-title="StreamedSU - Baseball",Boston Red Sox vs Athletics (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5284&_HLS_part=2
+https://gg.poocloud.in/redsox/index.m3u8
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixhw3cnG4htEEIm0kQemPrN8CFJha5gy8IvNEpgTWmDtjREIA.webp" group-title="StreamedSU - Baseball",New York Mets vs San Diego Padres (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5291&_HLS_part=0
+https://gg.poocloud.in/mets/index.m3u8
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Baseball",Tampa Bay Rays vs Toronto Blue Jays (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5295&_HLS_part=1
+https://gg.poocloud.in/rays/index.m3u8
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyajaEEGQAmIbpty6QKEDH19DKAhSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="StreamedSU - Baseball",Minnesota Twins vs New York Yankees (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5299&_HLS_part=3
+https://gg.poocloud.in/twins/index.m3u8
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQIYAAZQuHiG4gSIFIZB8zpgyfgEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Baseball",Milwaukee Brewers vs Los Angeles Angels (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_720p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5306&_HLS_part=1
+https://gg.poocloud.in/brewers/index.m3u8
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTsQ8akhDbuIEnpAQQMdSF04AJsYIUmfVWzBkN9eaNVNaYJ2NEQgA.webp" group-title="StreamedSU - Baseball",Kansas City Royals vs Seattle Mariners (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_480p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5313&_HLS_part=3
+https://gg.poocloud.in/royals/index.m3u8
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA.webp" group-title="StreamedSU - Baseball",Chicago White Sox vs Baltimore Orioles (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5318&_HLS_part=3
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIATMCjDrNObiAi59IGMZCIcfMwQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Baseball",St. Louis Cardinals vs Cincinnati Reds (English - SD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_720p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5322&_HLS_part=1
+https://gg.poocloud.in/whitesox/index.m3u8
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksPZgBKfmBAhuIErh3aQKEIn3b4BCkz4a2YMvCLzRGprTAOxoiEA.webp" group-title="StreamedSU - Baseball",Houston Astros vs Texas Rangers (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_720p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5325&_HLS_part=3
+https://gg.poocloud.in/astros/index.m3u8
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphx8w3EABNgABkogNmkMb5aQMYyEQoQywjGBM+KLmDLwi80S6a0wbsVEIIA.webp" group-title="StreamedSU - Baseball",Colorado Rockies vs Miami Marlins (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5332&_HLS_part=3
+https://gg.poocloud.in/rockies/index.m3u8
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCkQZAWEohuIPjpCIQIACYHjZ+AQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Baseball",Arizona Diamondbacks vs San Francisco Giants (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5337&_HLS_part=3
+https://gg.poocloud.in/d-backs/index.m3u8
 #EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphi5KwJCAAmIRN20HEIYyBQg+J+AQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Baseball",Los Angeles Dodgers vs Philadelphia Phillies (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5343&_HLS_part=1
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMYPiAAmYMt2whuWgyA0lcJ44hAEKTPii47y9eaIdNaYHWNEQgA.webp" group-title="StreamedSU - Baseball",Pittsburgh Pirates vs Chicago Cubs (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_720p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5349&_HLS_part=0
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIATMCjDrNObiAi59IGMZCIcfMwQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Baseball",St. Louis Cardinals vs Cincinnati Reds (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5352&_HLS_part=1
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA.webp" group-title="StreamedSU - Baseball",Chicago White Sox vs Baltimore Orioles (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5355&_HLS_part=3
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCkQZAWEohuIPjpCIQIACYHjZ+AQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Baseball",Arizona Diamondbacks vs San Francisco Giants (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5359&_HLS_part=1
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj6ww3amQghuIbTkQATECj0g+IYxAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - Baseball",Washington Nationals vs Atlanta Braves (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5362&_HLS_part=2
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoxanABNKIbiBL6QEEDBCIcevmYIUmfNWzBl4ReaLVNaYJ2NEQgA.webp" group-title="StreamedSU - Baseball",Detroit Tigers vs Cleveland Guardians (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5366&_HLS_part=0
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4qsom4gIuECRDacMPduWEYwJnxRcwmovNG2mtMPbGiIQA.webp" group-title="StreamedSU - Baseball",Boston Red Sox vs Athletics (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5369&_HLS_part=1
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Baseball",Tampa Bay Rays vs Toronto Blue Jays (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5373&_HLS_part=0
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixhw3cnG4htEEIm0kQemPrN8CFJha5gy8IvNEpgTWmDtjREIA.webp" group-title="StreamedSU - Baseball",New York Mets vs San Diego Padres (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5376&_HLS_part=1
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQIYAAZQuHiG4gSIFIZB8zpgyfgEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Baseball",Milwaukee Brewers vs Los Angeles Angels (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5380&_HLS_part=0
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTsQ8akhDbuIEnpAQQMdSF04AJsYIUmfVWzBkN9eaNVNaYJ2NEQgA.webp" group-title="StreamedSU - Baseball",Kansas City Royals vs Seattle Mariners (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5384&_HLS_part=0
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyajaEEGQAmIbpty6QKEDH19DKAhSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="StreamedSU - Baseball",Minnesota Twins vs New York Yankees (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_720p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5387&_HLS_part=3
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SvRAATXmRAQrLEIhBOHLiGPKIOvC2NuEQXrbYgQEg2PaMbAQwwHh6dGAsCm6SQrRx5GCJwG5CEEA.webp" group-title="StreamedSU - Baseball",MLB: Texas Rangers vs Houston Astros (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5391&_HLS_part=0
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3ShBAQGIACYgWIbFan0QhXuZAccLsl7OezZs4q9t6IQoi0ZmwEMMB4enRgLAoWkkK08eRgScAWQhBAA.webp" group-title="StreamedSU - Baseball",MLB: Miami Marlins vs Colorado Rockies (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5394&_HLS_part=1
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3ShBzAIDEBxAsQhaxYu8yINyFcATZw7e1LNjDuMFJ+nMF+BCF4enRgLAoBrFjAMeRg8U5CEEA.webp" group-title="StreamedSU - Baseball",MLB: Philadelphia Phillies vs Los Angeles Dodgers (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5397&_HLS_part=3
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SvRAATECxDlr54PcuFeL+2fKM3ZCyGcwGINggFsIQLiBSzBD8-nh6dGAsChCcrFjAceRgicApQhBAA.webp" group-title="StreamedSU - Baseball",MLB: Toronto Blue Jays vs Tampa Bay Rays (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5401&_HLS_part=0
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAggAJmYYhy9HLxCEQIMeQjBz9j40QcXAf6SiCyOMDb27iAo-OF4enRgLAoekkK08eRgSZ6snkA.webp" group-title="StreamedSU - Baseball",MLB: Cleveland Guardians vs Detroit Tigers (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5404&_HLS_part=1
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAicQ5CDlZTrLEBxBCXwACY36IZg4-m-ZpzA1iCWlhZW0gQwwHh6dGAsCuaSQrRx5GCJwbYQQA.webp" group-title="StreamedSU - Baseball",MLB: San Diego Padres vs New York Mets (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5407&_HLS_part=3
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="StreamedSU - Baseball",MLB: Athletics vs Boston Red Sox (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5411&_HLS_part=0
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAggWIACYhEhHNZDMhVsk-eXsHELQid-NjAgkjY2ID4OQYyWuAQwwHh6dGAsCn6SQrSJ5GApwH5CEEA.webp" group-title="StreamedSU - Baseball",MLB: Seattle Mariners vs Kansas City Royals (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5414&_HLS_part=1
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3ShBAQGIACYgWIbFan0QhXuZAccLsl7OezZs4q9t6IQoi0ZmwEMMB4enRgLAoWkkK08eRgScAWQhBAA.webp" group-title="StreamedSU - Baseball",MLB: Miami Marlins vs Colorado Rockies (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5417&_HLS_part=2
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAAmwC4ZA3yLEILGTy9XpYfnOw+4182Q9rQQwBAghA5SEPwwwHh6dGAsCsGSQrRx5GCJIawhQA.webp" group-title="StreamedSU - Baseball",MLB: New York Yankees vs Baltimore Orioles (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_720p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5421&_HLS_part=0
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCA5myZkABNg1m62AQQLwiBYg3HlzEsgpEJy8VuT2bvYw7jggzhz8vnh6dGAsCoGSQrSJ5GApTo4QQA.webp" group-title="StreamedSU - Baseball",MLB: Chicago Cubs vs Cincinnati Reds (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_720p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5424&_HLS_part=1
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SvRycQhSwxAcQEENhXAAJmVsgQwtxGC-EZtjkQnaB9uFeZoT8MMB4enRgLAq+kkK08eRgSX6sfkA.webp" group-title="StreamedSU - Baseball",MLB: Los Angeles Angels vs Milwaukee Brewers (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_480p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5427&_HLS_part=3
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SvRAtzwACbmcIQiAggbMe4+e9e1jxeyIHrhau5OQWHF6MFlb8MMB4enRgLAoQnKxYcWJgScCpQhBAA.webp" group-title="StreamedSU - Baseball",MLB: San Francisco Giants vs Los Angeles Dodgers (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5431&_HLS_part=1
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",MotoGP Qualifying | MotoGP Main Race (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5434&_HLS_part=3
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",DAZN Formula 1 | DAZN F1 (Español - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5438&_HLS_part=1
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",Sky Sports F1 | Sky F1 (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5441&_HLS_part=1
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",FIA F1 World Championship: FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2025: Friday practice (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5445&_HLS_part=0
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png" group-title="StreamedSU - Motor Sports",FIA Formula 2 Championship: Azerbaijan Grand Prix | Qualifying (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5448&_HLS_part=3
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",WWE Network (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5452&_HLS_part=2
+https://gg.poocloud.in/dodgers/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",WWE: NXT (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5456&_HLS_part=1
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",Dana Whites Contender Series season 9 Week 6 (English - SD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5461&_HLS_part=2
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",DWCS S9W6: Post-Fight Press Conference (English - SD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_720p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5465&_HLS_part=0
+https://gg.poocloud.in/wrestling/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",AEW: Wednesday Night Dynamite (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_720p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5469&_HLS_part=1
+https://gg.poocloud.in/wrestling/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",TNA: Impact (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_720p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5479&_HLS_part=2
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",Brave Combat Federation: Brave CF 98 | Zhengzhou, China (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_720p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5487&_HLS_part=3
+https://gg.poocloud.in/wrestling/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",WWE: Friday Night Smackdown (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_480p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5491&_HLS_part=3
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",WWE: Wrestlepalooza (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_480p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5498&_HLS_part=3
+https://gg.poocloud.in/wrestling/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="StreamedSU - Fight (UFC, Boxing)",AEW: Saturday Night Collision (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5502&_HLS_part=2
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",FIVB World Championship: USA vs Portugal (CBS Sports Network USA - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5507&_HLS_part=1
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",Malaysia - Malaysia FA Cup: Penang FC vs Melaka (Astro Arena Bola - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5514&_HLS_part=1
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpMpgAJsDBhwakNxC6+B3CBh6QRoyAIUmfFFzBl4ReaIdNaW0VLpA.webp" group-title="StreamedSU - Other",Serbia Volleyball vs China Volleyball (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5518&_HLS_part=1
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",Kirikkale Anadolu - Manisa (Original - SD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5522&_HLS_part=2
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",Live racing from around the UK (Sky Sports Racing UK - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5526&_HLS_part=1
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",Buriram United - Johor Darul Takzim (Original - SD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5531&_HLS_part=0
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",Asia - AFC Champions League Elite: Buriram United vs Johor Darul Ta'zim (Astro Arena Bola - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5535&_HLS_part=0
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",UEFA Youth League: Juventus U19 vs Borussia Dortmund U19 (Sky Sport Calcio IT - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5539&_HLS_part=1
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",Portugal - Liga Revelação: Santa Clara U23 vs União de Leiria U23 (Canal 11 Portugal - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5543&_HLS_part=1
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",ATHLETICS | World Championships | Tokyo | Day 4 ( - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5547&_HLS_part=1
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",Machida - Seoul (Sportklub 3 Serbia - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5552&_HLS_part=0
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",Leixoes U23 - Maritimo U23 (Original - SD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5557&_HLS_part=0
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",Gangwon - Shanghai Shenhua (Original - SD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5564&_HLS_part=0
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",Ath Bilbao U19 - Arsenal U19 (TNTSports 1 UK - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5569&_HLS_part=1
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",Portugal - Liga Revelação: Leixões U23 vs Marítimo U23 (Canal 11 Portugal - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5573&_HLS_part=2
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",UEFA Youth League: Athletic Bilbao U-19 vs Arsenal U-19 (TNT Sports 1 UK - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5578&_HLS_part=3
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",Asia - AFC Champions League Elite: Gangwon vs Shanghai Shenhua (Diema Sport 3 Bulgaria - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5583&_HLS_part=1
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",Asia - AFC Champions League Elite: Machida Zelvia vs Seoul (Astro Arena Bola 2 - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5587&_HLS_part=1
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",UEFA Youth League: SL Benfica vs Qarabag FK (BTV 1 Portugal - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5591&_HLS_part=3
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",FIVB World Championship: Netherlands vs Romania (Polsat Sport 2 Poland - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5597&_HLS_part=0
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",Portugal - Liga Revelação: Farense U23 vs Torreense U23 (Canal 11 Portugal - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5601&_HLS_part=1
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzAwIcPDC80IbiD4hE+nCRAoQEA0YIUmfFFzBkt9eaMdNaYZ2NEQgA.webp" group-title="StreamedSU - Other",France Volleyball vs Finland Volleyball (Polsat Sport 2 Poland - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5605&_HLS_part=2
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",FIVB World Championship: Slovenia vs Bulgaria (Polsat Sport 1 Poland - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5610&_HLS_part=0
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",Philippines Volleyball vs Egypt Volleyball (Polsat Sport 1 Poland - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5614&_HLS_part=3
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",SNOOKER | English Open | Round 1 🎱 ( - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5618&_HLS_part=3
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",Melbourne City - Hiroshima (Original - SD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5623&_HLS_part=3
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",Asia - AFC Champions League Elite: Melbourne City vs Sanfrecce Hiroshima (Nova Sport Bulgaria - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5627&_HLS_part=2
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",FIVB World Championship: Japan vs Canada (Polsat Sport 1 Poland - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5630&_HLS_part=2
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMwNcDAgQKSCG4g+ICCAAmh-ccvblhGMCZ8UXMGXhF5o501phXY0QggA.webp" group-title="StreamedSU - Other",Ukraine Volleyball vs Algeria Volleyball (Polsat Sport 2 Poland - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5634&_HLS_part=2
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",FIVB World Championship: Germany vs Chile (Polsat Sport 2 Poland - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_720p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5638&_HLS_part=1
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDh4FAQAZsIbiAAmuECV0gYIRIj3wCFJnxRcwZdfXmjHTWmGdjREIA.webp" group-title="StreamedSU - Other",Iran Volleyball vs Tunisia Volleyball (Polsat Sport 2 Poland - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5642&_HLS_part=1
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyZswIbuo3aAJrhAltMEIkQoTBCkz4ouYMvCLzRtprTD2xoiEA.webp" group-title="StreamedSU - Other",Italy Volleyball vs Belgium Volleyball (English - SD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5645&_HLS_part=3
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",Stage 1 | Tour de Luxemburgo (English - SD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5649&_HLS_part=1
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",Women's College Volleyball: Nebraska vs Creighton (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5653&_HLS_part=1
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMYkApTAkIbiAAmuECV0gUICAbMg+BCk1tcwZeEXmitTWmGdjREIA.webp" group-title="StreamedSU - Other",Portugal Volleyball vs Colombia Volleyball (English - SD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5657&_HLS_part=0
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh16jafENzAlNIDRBAATPbsQ6cEwjGBM+KLtvL15o+01phtY0RCA.webp" group-title="StreamedSU - Other",Qatar Volleyball vs Romania Volleyball (English - SD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5660&_HLS_part=2
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjhwsYFCCh8Q3EABNcIErpBnNEYwYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - Other",Bulgaria Volleyball vs Chile Volleyball (English - SD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5664&_HLS_part=1
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiUgUbEHxAQQ3EABNcIErpAwQiPSGsEKTPurZgy8IvNHqmtMM7GiIQA.webp" group-title="StreamedSU - Other",Canada Volleyball vs Turkey Volleyball (English - SD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5668&_HLS_part=0
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",UCI Europe Tour: ES2, Tour of Slovakia, Stage 1 (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5672&_HLS_part=2
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",UCI Pro Series: ES2, Tour of Luxembourg, Stage 1 (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5675&_HLS_part=3
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",Women's College Volleyball: Pittsburgh vs Penn State (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5679&_HLS_part=1
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",Women's College Volleyball: Wisconsin vs Marquette (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5682&_HLS_part=2
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",UCI Europe Tour: ES2, Tour of Slovakia, Stage 2 (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_720p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5686&_HLS_part=2
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",UCI Pro Series: ES2, Tour of Luxembourg, Stage 2 (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_720p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5689&_HLS_part=3
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQhEPJAh+MYHia0qYFgh1chta+TD3gKoRCA.webp" group-title="StreamedSU - Other",World Championship: Italy vs Ukraine (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5693&_HLS_part=0
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",Horse Racing: America's Day At the Races (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5696&_HLS_part=3
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLEBxAp+MYHia0qYFgh1chta+TD3gKoRCA.webp" group-title="StreamedSU - Other",EHF Champions League: Barcelona vs Magdeburg (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5700&_HLS_part=1
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="StreamedSU - Other",UCI Europe Tour: ES2, Tour of Slovakia, Stage 3 (English - HD)
-https://media-hls.doppiocdn.net/b-hls-25/199259075/199259075_1080p.m3u8?playlistType=lowLatency&psch=v1&pkey=Zokee2OhPh9kugh4&_HLS_msn=5704&_HLS_part=0
+https://gg.poocloud.in/wrestling/index.m3u8
